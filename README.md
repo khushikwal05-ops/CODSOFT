@@ -7,7 +7,7 @@ This repository contains all tasks completed during my Artificial Intelligence I
 **Domain:** Artificial Intelligence  
 **Technologies:** Python, Machine Learning, NLP, Game Theory, Scikit-learn, Pandas  
 
-## ✅ Tasks Completed: 3/4
+## ✅ Tasks Completed: 3/5
 
 ### Task 1: Rule-Based Chatbot 🤖
 **File:** `chatbot.py`  
