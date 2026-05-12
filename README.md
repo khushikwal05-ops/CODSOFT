@@ -1,4 +1,4 @@
-# CODSOFT AI Internship - May 2026
+# CODSOFT AI Internship 
 
 This repository contains all tasks completed during my Artificial Intelligence Internship at [CODSOFT](https://www.codsoft.in/).
 
