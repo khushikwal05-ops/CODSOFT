@@ -68,7 +68,6 @@ This repository contains all tasks completed during my Artificial Intelligence I
     python tic-tac-toe.py
     python recommendation_system.py
 
----
 
 ## 🎯 Key Learnings 
 
@@ -80,7 +79,6 @@ This repository contains all tasks completed during my Artificial Intelligence I
 
 • **Python Skills:** OOP, libraries, error handling, CLI applications  
 
----
 
 ## 🔗 Connect With Me
 
